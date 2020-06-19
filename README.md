@@ -12,7 +12,7 @@ This is a standalone HTML page with associated CSS and image assets included.
 The GitHub Pages site can be found [here](https://cjkook.github.io/02-homework-bootstrap-portfolio/).
 
 ## Credits
-Created by Corey J. Kothenbeutel
+Created by Corey J. Kothenbeutel<br/>
 Photos by Dru Kothenbeutel
 
 source for 中文 lorem ipsum
