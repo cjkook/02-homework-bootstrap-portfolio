@@ -15,7 +15,10 @@ a:hover {
 
 .bgimg-1,
 .bgimg-2,
-.bgimg-3 {
+.bgimg-3,
+.bgimg-4,
+.bgimg-5,
+.bgimg-6 {
   position: relative;
   opacity: 0.65;
   background-attachment: fixed;
@@ -27,13 +30,23 @@ a:hover {
   background-image: url("../images/holder1.jpg");
   min-height: 100%;
 }
-
 .bgimg-2 {
   background-image: url("../images/holder2.jpg");
   min-height: 400px;
 }
-
 .bgimg-3 {
+  background-image: url("../images/holder3.jpg");
+  min-height: 400px;
+}
+.bgimg-4 {
+  background-image: url("../images/holder1.jpg");
+  min-height: 200px;
+}
+.bgimg-5 {
+  background-image: url("../images/holder2.jpg");
+  min-height: 400px;
+}
+.bgimg-6 {
   background-image: url("../images/holder3.jpg");
   min-height: 400px;
 }
@@ -78,7 +91,10 @@ h3 {
 @media only screen and (max-device-width: 1024px) {
   .bgimg-1,
   .bgimg-2,
-  .bgimg-3 {
+  .bgimg-3,
+  .bgimg-4,
+  .bgimg-5,
+  .bgimg-6 {
     background-attachment: scroll;
   }
 }

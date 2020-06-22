@@ -14,6 +14,3 @@ The GitHub Pages site can be found [here](https://cjkook.github.io/02-homework-b
 ## Credits
 Created by Corey J. Kothenbeutel<br/>
 Photos by Dru Kothenbeutel
-
-source for 中文 lorem ipsum
-http://www.richyli.com/tool/loremipsum/
