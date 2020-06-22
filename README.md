@@ -6,7 +6,7 @@
 * Credits
 
 ## Installation
-This is a standalone HTML page with associated CSS and image assets included.
+This is a standalone HTML/Bootstrap template page with associated image assets included.  It features a layout utilizing parallax images.
 
 ## Usage
 The GitHub Pages site can be found [here](https://cjkook.github.io/02-homework-bootstrap-portfolio/).
