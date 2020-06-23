@@ -1,5 +1,7 @@
 # 02-homework-bootstrap-portfolio
 
+![Screenshot of template splash](/images/screenshot-1.png)
+
 ## Table of Contents 
 * Installation
 * Usage
@@ -13,4 +15,4 @@ The GitHub Pages site can be found [here](https://cjkook.github.io/02-homework-b
 
 ## Credits
 Created by Corey J. Kothenbeutel<br/>
-Photos by Dru Kothenbeutel
+Artwork by Corey J. Kothenbeutel
