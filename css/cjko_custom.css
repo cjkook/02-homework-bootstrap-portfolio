@@ -64,19 +64,19 @@ a:hover {
   background-color: #111;
   color: #fff;
   padding: 18px;
-  font-size: 55px;
+  font-size: 5vw;
   letter-spacing: 20px;
 }
 span.border-branding {
   position: absolute;
   left: 0;
-  top: 50%;
+  top: 35%;
   width: 100%;
   text-align: center;
   background-color: #111;
   color: #fff;
   padding: 18px;
-  font-size: 30px;
+  font-size: 4vw;
   letter-spacing: 5px;
 }
 
@@ -85,6 +85,10 @@ h3 {
   text-transform: uppercase;
   font: 20px "Lato", sans-serif;
   color: #111;
+}
+
+@media (max-device-width: 1024px) {
+
 }
 
 /* Turn off parallax scrolling for tablets and phones */
